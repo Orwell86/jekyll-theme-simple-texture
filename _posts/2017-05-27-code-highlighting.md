@@ -8,6 +8,10 @@ redirect_from:
   - /2017/05/27/
 ---
 
+# This is my demo site
+
+**This** is bold text
+
 > This is code blocks and highlighting test page for [Simple Texture][Simple Texture] theme.
 
 * Kramdown table of contents
