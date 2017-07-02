@@ -50,6 +50,11 @@ home:
   section1: <h1>Navision4u Inc.</h1>
   section2: <h2>More to come...</h2>
   section3: <div class="social-links"></div>
+  
+blog:
+  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License
+  cc_license_image: /assets/images/theme/cc-by-sa.png # Choose one at https://creativecommons.org/choose/
+  footer_content: A gem-based responsive simple texture styled Jekyll theme.
 
 disqus:
   shortname:
