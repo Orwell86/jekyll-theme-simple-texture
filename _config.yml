@@ -50,8 +50,9 @@ home:
   section1: <h1>Navision4u Inc.</h1>
   section2: <h2>More to come...</h2>
   section3: <div class="social-links"></div>
-  section5: <h2>Services</h2>
-  section6: <h2>Experience</h2>
+  section4: <h1>About</h1>
+  section5: <h1>Services</h1>
+  section6: <h1>Experience</h1>
   
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License
