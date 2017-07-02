@@ -19,7 +19,7 @@
         <li data-menuanchor="social"><a href="#social">Social Links</a></li>
     </ul>
 
-    <div id="section0" class="section" data-name="bio">
+    <div id="section0" class="section" data-name="main">
 
         {% include common/notices.html %}
 
@@ -35,6 +35,7 @@
         <h1 class="animated hidden">
             <a class="btn-enter btn-light" data-ga="Enter Blog" href="{{ site.paths.blog | relative_url }}">{{ site.data.i18n[site.lang].enter_blog }}</a>
         </h1>
+        <!--
         <div class="social-links animated hidden">
             <a class="btn-light ico-rss" href="{{ site.baseurl }}/feed.xml" rel="me" target="_blank" title="feed"></a>
             {% if site.author.email %}
@@ -46,6 +47,7 @@
                 {% endif %}
             {% endfor %}
         </div>
+        -->
     </div>
 
     {% include home/scripts.html %}
