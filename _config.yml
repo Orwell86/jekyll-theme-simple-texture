@@ -53,7 +53,7 @@ about:
   section1: <h1>About</h1>
   section2: <h2>15 years in Mirosoft Dynamics NAV business.</h2>
             <h2>Multiple implementations for US and Canada based customers.</h2>
-            <h2>Personal approach: no cheap outsource, and no extra sales.</h2>
+            <h2>Personal approach&#58; no cheap outsource, and no extra sales.</h2>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License
   cc_license_image: /assets/images/theme/cc-by-sa.png # Choose one at https://creativecommons.org/choose/
