@@ -17,8 +17,6 @@
     <ul id="menu">
         <li data-menuanchor="main"><a href="#main">Company</a></li>
         <li data-menuanchor="about"><a href="#about">About</a></li>
-        <li data-menuanchor="services"><a href="#services">Services</a></li>
-        <li data-menuanchor="experience"><a href="#experience">Experience</a></li>
         <li data-menuanchor="social"><a href="#social">Social Links</a></li>
     </ul>
 
@@ -41,28 +39,8 @@
         </div>
         <a class="btn-continue animated bounce" data-ga="More" href="#services"></a>
     </div>
-    
-    <div id="section2" class="section" data-name="services">
 
-        {% include common/notices.html %}
-
-        <div class="headings animated fadeInLeft">
-            {% if site.home.section5 %}{{ site.home.section5 }}{% endif %}
-        </div>
-        <a class="btn-continue animated bounce" data-ga="More" href="#experience"></a>
-    </div>
-    
-    <div id="section3" class="section" data-name="experience">
-
-        {% include common/notices.html %}
-
-        <div class="headings animated fadeInLeft">
-            {% if site.home.section6 %}{{ site.home.section6 }}{% endif %}
-        </div>
-        <a class="btn-continue animated bounce" data-ga="More" href="#social"></a>
-    </div>
-
-    <div id="section4" class="section" data-name="social">
+    <div id="section2" class="section" data-name="social">
         <h1 class="animated hidden">
             <a class="btn-enter btn-light" data-ga="Enter Blog" href="{{ site.paths.blog | relative_url }}">{{ site.data.i18n[site.lang].enter_blog }}</a>
         </h1>
