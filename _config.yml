@@ -50,7 +50,7 @@ home:
   section1: <h1>Navision4u Inc.</h1>
   section2: <h2>New York based group of Microsoft Dynamics NAV specialists.</h2>
 about:
-  section3: <h1>About</h1>
+  section1: <h1>About</h1>
   section4: <h2>15 years in Mirosoft Dynamics NAV business.</h2>
             <h2>Multiple implementations for US and Canada based customers.</h2>
             <h2>Personal approach&#58; no cheap outsource, and no extra sales.</h2>
